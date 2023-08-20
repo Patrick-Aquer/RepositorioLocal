@@ -34,3 +34,12 @@ Lista de Tarefas
 - [ ] Tarefa 3
 - [x] Tarefa Cocnluída
 - [ ] Tarefa 4
+
+---
+# Tabelas
+
+Num | Notas | Aluno |
+---|---|---
+1| Patrick | 10.0
+2| Clara | 9.0
+3| Matheus | 9.1
