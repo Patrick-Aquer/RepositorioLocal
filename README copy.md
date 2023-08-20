@@ -12,7 +12,7 @@ _Itálico_
 ## Título Nv2
 ### Título Nv3
 ---
-Config Misturada __*Misturado*__
+Config Misturada __*Itálico e Negrito*__
 
 Lista Numerada
 1. item 1
@@ -29,8 +29,8 @@ Lista Demarcada
 * item 4
 
 Lista de Tarefas
-- [] Tarefa 1
-- [] Tarefa 2
-- [] Tarefa 3
+- [ ] Tarefa 1
+- [ ] Tarefa 2
+- [ ] Tarefa 3
 - [x] Tarefa Cocnluída
-- [] Tarefa 4
+- [ ] Tarefa 4
