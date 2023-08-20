@@ -45,13 +45,14 @@ Num | Notas | Aluno |
 3| Matheus | 9.1
 
 ## Comandos
-'Comando de Determinado código'
+`Comando de Determinado código`
 
-'''
+```
 Escreva seu programa aqui
 Linha 2 do Programa
 Linha 3 do Programa
-'''
+```
 
-### Marcando pessoas
+### Marcando pessoas e Citações
 @(nick da pessoa)
+> Citação
