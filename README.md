@@ -1,6 +1,6 @@
 # Repositório Local
- Repositório Local Versionado.
+ **Repositório Local Versionado.**
  
- Repositório criado durante o curso de Git+GitHub.
+ Repositório criado durante o curso de *Git+GitHub*.
 
  Adicionei essa linha no Site GitHub
