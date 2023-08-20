@@ -36,10 +36,22 @@ Lista de Tarefas
 - [ ] Tarefa 4
 
 ---
-# Tabelas
+## Tabelas
 
 Num | Notas | Aluno |
 ---|---|---
 1| Patrick | 10.0
 2| Clara | 9.0
 3| Matheus | 9.1
+
+## Comandos
+'Comando de Determinado código'
+
+'''
+Escreva seu programa aqui
+Linha 2 do Programa
+Linha 3 do Programa
+'''
+
+### Marcando pessoas
+@(nick da pessoa)
